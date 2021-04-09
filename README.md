@@ -1,6 +1,5 @@
-# DSC-CHALLENGE(Console Version)-
+# DSC-CHALLENGE(Console Version)
 ### University of Ghana
- 
 A console program to help an employee track how much they are paid after a period of work (console version)
 
 ## Installation
