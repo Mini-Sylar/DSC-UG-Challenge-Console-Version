@@ -1,4 +1,4 @@
-# DSC-CHALLENGE (Console Version)
+# DSC-University of Ghana CHALLENGE (Console Version)
 
 A console program to help an employee track how much they are paid after a period of work (console version)
 
